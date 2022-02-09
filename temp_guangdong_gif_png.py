@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  2 19:25:16 2022
-
-@author: Eric Kwong
-"""
-#pyinstaller --onefile --noconsole temp_guangdong_gif_png.py
-#pyinstaller --onefile --noconsole --icon=icon.ico temp_guangdong_gif_png.py
-
 from tkinter import *
 import requests
 import time
